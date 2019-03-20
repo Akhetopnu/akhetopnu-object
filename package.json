@@ -16,7 +16,7 @@
     "pure"
   ],
   "author": "Akhetopnu",
-  "publishCOnfig": {
+  "publishConfig": {
     "access": "public"
   },
   "license": "WTFPL",
