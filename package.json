@@ -1,0 +1,27 @@
+{
+  "name": "@akhetopnu/object",
+  "version": "0.0.1",
+  "description": "Utility functions for object operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akhetopnu/akhetopnu-object.git"
+  },
+  "keywords": [
+    "functional",
+    "vanilla",
+    "pure"
+  ],
+  "author": "Akhetopnu",
+  "publishCOnfig": {
+    "access": "public"
+  },
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Akhetopnu/akhetopnu-object/issues"
+  },
+  "homepage": "https://github.com/Akhetopnu/akhetopnu-object#readme"
+}
